@@ -1,0 +1,24 @@
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.xml
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.vbproj.AssemblyReference.cache
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Resources.resources
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.vbproj.GenerateResource.cache
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.xml
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
+C:\Users\User 4\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Calculator.resources
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\bin\Debug\BasicCalculator.xml
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\obj\Debug\BasicCalculator.vbproj.AssemblyReference.cache
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\obj\Debug\BasicCalculator.Calculator.resources
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\obj\Debug\BasicCalculator.Resources.resources
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\obj\Debug\BasicCalculator.vbproj.GenerateResource.cache
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\obj\Debug\BasicCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\obj\Debug\BasicCalculator.xml
+C:\Users\User 4\Documents\Side Projects\VB-Calculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
